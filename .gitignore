@@ -1,0 +1,14 @@
+**/__pycache__/*
+**.png
+**.svg
+lib/entangleware_control_link.py
+lib/entangleware_math.py
+lib/sequences.py
+lib/structures.py
+lib/ew.py
+lib/basler.py
+lib/flir.py
+lib/mogdriver.py
+lib/newport.py
+lib/plotdefs.py
+LastCompiledRun.dat

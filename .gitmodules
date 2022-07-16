@@ -1,0 +1,15 @@
+[submodule "lib/ew-control"]
+	path = lib/ew
+	url = https://gitlab.engr.illinois.edu/whuie2/ew-control.git
+[submodule "lib/moglabs-control"]
+	path = lib/mogdriver
+	url = https://gitlab.engr.illinois.edu/whuie2/moglabs-control.git
+[submodule "lib/newport-control"]
+	path = lib/newport
+	url = https://gitlab.engr.illinois.edu/whuie2/newport-control.git
+[submodule "lib/basler-camera-control"]
+	path = lib/basler
+	url = https://gitlab.engr.illinois.edu/whuie2/basler-camera-control.git
+[submodule "lib/flir-control"]
+	path = lib/flir
+	url = https://gitlab.engr.illinois.edu/whuie2/flir-control.git
